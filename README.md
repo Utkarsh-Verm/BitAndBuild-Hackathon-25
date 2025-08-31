@@ -16,3 +16,78 @@ Personalised Meal Plan
 AI ChatBot
 
 Tesseract OCR: Food Recognition and Evaluation
+
+Backend (Python Flask + ML + MongoDB)
+
+Dependencies:
+
+Python 3.10+
+
+Flask
+
+Flask-CORS
+
+PyMongo
+
+Pandas
+
+Scikit-learn
+
+Pillow
+
+Pytesseract
+
+Werkzeug
+
+MongoDB Atlas (Cloud Database)
+
+Tesseract OCR (system dependency)
+
+
+# Navigate to backend folder
+cd NutriAI_backend
+
+# Create virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+
+# Install dependencies
+pip install flask flask-cors pymongo pandas scikit-learn pillow pytesseract werkzeug
+
+
+Start backend:
+
+Start backend:
+
+
+Frontend (React + Vite + Tailwind)
+
+Dependencies:
+
+Node.js (>= 18) & npm
+
+React
+
+React Router DOM
+
+React Icons
+
+Recharts
+
+TailwindCSS
+
+Vite
+
+Installation:
+
+# Navigate to frontend folder
+cd frontend
+
+# Install dependencies
+npm install
+
+
+Start frontend:
+
+npm run dev
